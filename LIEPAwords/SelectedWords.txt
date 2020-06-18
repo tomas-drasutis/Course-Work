@@ -1,0 +1,10 @@
+1. rodyk
+2. ijunk
+3. atverk
+4. irašyk
+5. išjunk
+6. pereik
+7. vykdyk
+8. žemyn
+9. aktyvink
+10. funkcija
